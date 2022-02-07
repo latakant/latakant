@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [Latakant Sharma]👋 
+### Hi there, [Latakant Sharma]👋 
 
 ## I'm a Developer!!
 
