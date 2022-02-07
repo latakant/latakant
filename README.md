@@ -1,4 +1,4 @@
-### Hi there, [Latakant Sharma]👋 
+### Hi there, I am Latakant Sharma👋 
 
 ## I'm a Developer!!
 
