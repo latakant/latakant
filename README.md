@@ -35,10 +35,6 @@
 <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=latakant&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="latakant" /></p> 
 <img src="https://github-readme-stats.vercel.app/api?username=latakant&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=">
 
-
-
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-<br>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=latakant&theme=highcontrast">
 <br>
@@ -47,6 +43,8 @@
 <br>
 <br>
 Visitor Count: <img align="center" src="https://profile-counter.glitch.me/ishmeet-aubi/count.svg" alt="latakant" />
+<br>
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 <br>
 
 [instagram]: https://www.instagram.com/ipsycho.1993/
