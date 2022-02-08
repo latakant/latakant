@@ -29,7 +29,7 @@
 <h2> GitHub Stats </h2>
 <p align="left"> <a href="https://github.com/latakant"><img src="https://github-profile-trophy.vercel.app/?username=latakant&theme=onedark" alt="latakant" /></a> </p>
 
----
+<br/>
 <div align="center">
   <a href="https://github.com/latakant">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=latakant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
