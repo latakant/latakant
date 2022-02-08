@@ -42,7 +42,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=latakant&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">  
 <br>
 <br>
-Visitor Count: <img align="center" src="https://profile-counter.glitch.me/ishmeet-aubi/count.svg" alt="latakant" />
+Visitor Count: <img align="center" src="https://profile-counter.glitch.me/latakant/count.svg" alt="latakant" />
 <br>
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 <br>
