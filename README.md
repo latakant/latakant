@@ -37,9 +37,9 @@
 <p align="left"> <a href="https://github.com/latakant"><img src="https://github-profile-trophy.vercel.app/?username=latakant&theme=onedark" alt="ishmeet-aubi" /></a> </p>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/latakant">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=latakant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latakant&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <br>
