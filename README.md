@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="latakant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/LinkedIn.svg" />][linkedin]
-[<img align="left" alt="latakant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Instagram.svg" />][instagram]
+[<img align="left" alt="latakant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedIn.svg" />][linkedin]
+[<img align="left" alt="latakant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
