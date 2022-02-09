@@ -41,7 +41,8 @@
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=latakant&theme=radical" alt="latakant" /></p>
 </div>
----
+
+  ---
 Visitor Count: <img align="center" src="https://profile-counter.glitch.me/latakant/count.svg" alt="latakant" />
 <br>
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
