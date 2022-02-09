@@ -3,7 +3,7 @@
 ## I'm a Developer!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and Developers
-- ⚡ Fun fact: I love to Play Football and Cocking
+- ⚡ Fun fact: I love to Play Football and Coocking
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/latakant-sharma-6ab4031a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
