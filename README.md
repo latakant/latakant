@@ -29,7 +29,7 @@
 <br />
 
 ---
-<h2> GitHub Stats </h2>
+<h2> &#x1f4c8; GitHub Stats </h2>
 <p align="left"> <a href="https://github.com/latakant"><img src="https://github-profile-trophy.vercel.app/?username=latakant&theme=onedark" alt="latakant" /></a> </p>
 
 <br/>
@@ -38,6 +38,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=latakant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latakant&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=latakant&theme=radical" alt="latakant" /></p>
 
 ---
 Visitor Count: <img align="center" src="https://profile-counter.glitch.me/latakant/count.svg" alt="latakant" />
