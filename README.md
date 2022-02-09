@@ -20,9 +20,8 @@
   <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/glyph-neue/344/github.png" style="padding-right:10px;" />
+  <img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/217753/github.svg" style="padding-right:10px;" />
   <img align="left" alt="Terminal" width="26px" src="https://cdn-icons-png.flaticon.com/128/37/37759.png"/>
-  <a href="https://icons8.com/icon/v551nqGeHhGn/github"></a>
   </div>
 <br />
 
