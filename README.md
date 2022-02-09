@@ -38,8 +38,9 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=latakant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latakant&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=latakant&theme=radical" alt="latakant" /></p>
-
+</div>
 ---
 Visitor Count: <img align="center" src="https://profile-counter.glitch.me/latakant/count.svg" alt="latakant" />
 <br>
