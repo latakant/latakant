@@ -1,4 +1,4 @@
-### Hi there, I am Latakant Sharma👋 <img align="left" alt="OM" width="26px" src="https://svgsilh.com/svg/884267.svg" style="padding-right:10px;" />
+### Hi there, I am Latakant Sharma👋 <img align="left" alt="OM" width="26px" src="https://svgsilh.com/svg/1321399.svg" style="padding-right:10px;" />
 
 ## I'm a Developer!!
 - 🌱 I’m currently learning everything 🤣
