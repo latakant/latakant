@@ -30,10 +30,12 @@
   <img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="padding-right:10px;"/>
   <img align="left" alt="Postman" width="26px" height="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="padding-right:10px;"/>
   <img align="left" alt="Salesforce" width="26px" src="https://www.svgrepo.com/show/303235/salesforce-2-logo.svg" style="padding-right:10px;" />
+  <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;"/>
+  <img align="left" alt="xd" width="26" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" style="padding-right:10px;"/>
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   <img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/217753/github.svg" style="padding-right:10px;" />
   <img align="left" alt="Terminal" width="30px" src="https://www.svgrepo.com/show/362176/terminal.svg" style="padding-right:10px;"/>
-  <img align="left" alt="xd" width="26" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" style="padding-right:10px;"/>
+  
   </div>
 <br />
 
