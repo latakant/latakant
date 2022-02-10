@@ -5,7 +5,7 @@
 
 ## I'm a Developer!!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators and Developers
+- 👯 I’m looking to collaborate with other content creators and Developers <img align="left" alt="OM" width="26px" src="https://svgsilh.com/svg/2026876.svg" style="padding-right:10px;" />
 - ⚡ Fun fact: I love to Play Football and Cooking
 
 ### Connect with me:
