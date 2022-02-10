@@ -38,6 +38,7 @@
   </div>
 <br />
 <br />
+<br />
 
 ---
 <h2> &#x1f4c8; GitHub Stats </h2>
