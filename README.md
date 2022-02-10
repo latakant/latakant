@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=latakant&label=Profile%20views&color=0e75b6&style=flat" alt="latakant" /> </p>
 ### Hi there, I am Latakant Sharma👋 <img align="left" alt="OM" width="26px" src="https://svgsilh.com/svg/884267.svg" style="padding-right:10px;" />
 
 ## I'm a Developer!!
