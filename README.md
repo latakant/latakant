@@ -33,8 +33,6 @@
   <img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/217753/github.svg" style="padding-right:10px;" />
   <img align="left" alt="Terminal" width="30px" src="https://www.svgrepo.com/show/362176/terminal.svg" style="padding-right:10px;"/>
   </div>
-<br />
-<br />
 
 ---
 <h2> GitHub Stats </h2>
