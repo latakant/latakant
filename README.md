@@ -37,7 +37,7 @@
 <br />
 
 ---
-<h2> &#x1f4c8; GitHub Stats </h2>
+<h2> GitHub Stats </h2>
 <p align="left"> <a href="https://github.com/latakant"><img src="https://github-profile-trophy.vercel.app/?username=latakant&theme=onedark" alt="latakant" /></a> </p>
 
 <br/>
