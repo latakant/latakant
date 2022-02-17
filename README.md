@@ -42,21 +42,13 @@
 <br/>
 <div align="center">
   <a href="https://github.com/latakant">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=latakant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=latakant&show_icons=true&&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latakant&layout=compact&langs_count=7"/>
 </div>
 <br/>
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=latakant&theme=radical" alt="latakant" /></p>
-</div>
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latakant&hide=html&layout=compact" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=latakant&hide=stars"/></td>
-    </tr>   
-</table>
-</center>  
+</div> 
 
   ---
 Visitor Count: <img align="center" src="https://profile-counter.glitch.me/latakant/count.svg" alt="latakant" />
