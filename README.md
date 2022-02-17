@@ -37,12 +37,12 @@
 
 ---
 <h2> GitHub Stats </h2>
-<p align="left"> <a href="https://github.com/latakant"><img src="https://github-profile-trophy.vercel.app/?username=latakant" alt="latakant" /></a> </p>
+<p align="left"> <a href="https://github.com/latakant"><img src="https://github-profile-trophy.vercel.app/?username=latakant&theme=onedark" alt="latakant" /></a> </p>
 
 <br/>
 <div align="center">
   <a href="https://github.com/latakant">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=latakant&show_icons=true&&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=latakant&theme=dracula show_icons=true&&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latakant&layout=compact&langs_count=7"/>
 </div>
 <br/>
