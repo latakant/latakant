@@ -47,7 +47,7 @@
 </div>
 <br/>
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=latakant&theme=radical" alt="latakant" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=latakant&" alt="latakant" /></p>
 </div> 
 
   ---
