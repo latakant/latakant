@@ -49,6 +49,14 @@
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=latakant&theme=radical" alt="latakant" /></p>
 </div>
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latakant&hide=html&layout=compact" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=latakant&hide=stars"/></td>
+    </tr>   
+</table>
+</center>  
 
   ---
 Visitor Count: <img align="center" src="https://profile-counter.glitch.me/latakant/count.svg" alt="latakant" />
