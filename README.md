@@ -28,6 +28,7 @@
   <img align="left" alt="Firebase" width="40px" height="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" style="padding-right:10px;"/>
   <img align="left" alt="linux" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="padding-right:10px;"/>
   <img align="left" alt="Postman" width="40px" height="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="padding-right:10px;"/>
+  <br />
   <img align="left" alt="Salesforce" width="40px" height="40px" src="https://www.svgrepo.com/show/303235/salesforce-2-logo.svg" style="padding-right:10px;" />
   <img align="left" alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   <img align="left" alt="GitHub" width="40px" height="40px" src="https://www.svgrepo.com/show/217753/github.svg" style="padding-right:10px;" />
