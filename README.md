@@ -23,7 +23,6 @@
   <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
   <img align="left" alt="NestJs" width="26px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" style="padding-right:10px;" />
   <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="ReactNative" width="26px" src="https://cdn-icons-png.flaticon.com/128/3393/3393948.png" style="padding-right:10px;"/> 
   <img align="left" alt="NextJs" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" style="padding-right:10px;" />
   <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" style="padding-right:10px;"/>
@@ -34,7 +33,6 @@
   <img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/217753/github.svg" style="padding-right:10px;" />
   <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" style="padding-right:10px;"/>
   </div>
-<br />
 <br />
 
 ---
