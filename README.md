@@ -32,8 +32,12 @@
   <img align="left" alt="Salesforce" width="26px" src="https://www.svgrepo.com/show/303235/salesforce-2-logo.svg" style="padding-right:10px;" />
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   <img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/217753/github.svg" style="padding-right:10px;" />
+  
+  </div>
+  <div style="display: inline_block" align="center">  
   <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" style="padding-right:10px;"/>
   </div>
+
 <br />
 <br />
 
