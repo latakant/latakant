@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/ipsycho.1993/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br />
 ### Languages and Tools:
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -21,9 +21,10 @@
   <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
   <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
   <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="NestJs" width="26px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" style="padding-right:10px;" />
   <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   <img align="left" alt="ReactNative" width="26px" src="https://cdn-icons-png.flaticon.com/128/3393/3393948.png" style="padding-right:10px;"/> 
-  <img align="left" alt="Next.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" style="padding-right:10px;" />
+  <img align="left" alt="NextJs" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" style="padding-right:10px;" />
   <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" style="padding-right:10px;"/>
   <img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="padding-right:10px;"/>
