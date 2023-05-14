@@ -34,7 +34,6 @@
   <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" style="padding-right:10px;"/>
   </div>
 <br />
-
 ---
 <br />
 <h2> GitHub Stats </h2>
