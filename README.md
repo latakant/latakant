@@ -30,7 +30,7 @@
   <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="padding-right:10px;"/>
   <img align="left" alt="Salesforce" width="26px" src="https://www.svgrepo.com/show/303235/salesforce-2-logo.svg" style="padding-right:10px;" />
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="DevOps" width="26px" src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" style="padding-right:10px;" />
+  <img align="left" alt="DevOps" width="26px" src="https://ouch-cdn2.icons8.com/1IVlnumlw3P_qCM79Jur6bX8RDXggKbEIyJMmUIg7rk/rs:fit:368:210/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTU5/LzYxN2I2YzFkLTY3/OWEtNDQxNi04NDI5/LTQ3MGE2OTBmZjUx/MC5zdmc.png" style="padding-right:10px;" />
   <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" style="padding-right:10px;"/>
   </div>
 <br />
