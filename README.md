@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate with other Developers 
 - ⚡ Fun fact: I love to Play Football and Cooking
 </div>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=latakant&label=Profile%20views&color=0e75b6&style=flat" alt="latakant" /> </p>
 
