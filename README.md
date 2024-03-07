@@ -1,6 +1,6 @@
 <h1 align="center"> <img alt="OM" width="26px" src="https://svgsilh.com/svg/884267.svg" style="padding-right:10px;" /> Hi 👋, I'm Latakant Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
-<div align="center" tyle="padding-bottom:10px;">
+<div display="flex" tyle="padding-bottom:10px;">
   <div align="left">
     ### I'm a Developer!!
   - 🌱 I’m currently learning everything 🤣
