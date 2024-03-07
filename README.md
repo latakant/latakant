@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Latakant Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"> <img align="left" alt="OM" width="26px" src="https://svgsilh.com/svg/884267.svg" style="padding-right:10px;" /> Hi 👋, I'm Latakant Sharma</h1>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=latakant&label=Profile%20views&color=0e75b6&style=flat" alt="latakant" /> </p>
 
