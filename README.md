@@ -9,7 +9,7 @@
       <li>⚡ Fun fact: I love to Play Football and Cooking</li>
     </ul>
   </div>
-  <div style="text-align: right;">
+  <div style=" align: right;">
     <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   </div>
 </div>
