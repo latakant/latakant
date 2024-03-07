@@ -1,17 +1,19 @@
 <h1 align="center"> <img alt="OM" width="26px" src="https://svgsilh.com/svg/884267.svg" style="padding-right:10px;" /> Hi 👋, I'm Latakant Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
-<div display="flex" tyle="padding-bottom:10px;">
+<div style="display: flex; justify-content: center; padding-bottom: 10px;">
   <div align="left">
     ### I'm a Developer!!
-  - 🌱 I’m currently learning everything 🤣
-  - 👯 I’m looking to collaborate with other Developers 
-  - ⚡ Fun fact: I love to Play Football and Cooking
+    <ul>
+      <li>🌱 I’m currently learning everything 🤣</li>
+      <li>👯 I’m looking to collaborate with other Developers</li>
+      <li>⚡ Fun fact: I love to Play Football and Cooking</li>
+    </ul>
   </div>
   <div align="right">
-      <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   </div>
-  
 </div>
+
 <br/>
 
 <h3 align="left">Connect with me:</h3>
