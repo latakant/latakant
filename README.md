@@ -4,9 +4,9 @@
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
   ### I'm a Developer!!
-  - 🌱 I’m currently learning everything 🤣
-  - 👯 I’m looking to collaborate with other Developers 
-  - ⚡ Fun fact: I love to Play Football and Cooking
+  🌱 I’m currently learning everything 🤣
+  👯 I’m looking to collaborate with other Developers 
+  ⚡ Fun fact: I love to Play Football and Cooking
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
