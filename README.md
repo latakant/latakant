@@ -2,7 +2,6 @@
 <h3 align="center">A passionate developer from India</h3>
 <div style="padding-bottom: 10px">
   <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  <div align="left">
   ### I'm a Developer!!
   - 🌱 I’m currently learning everything 🤣
   - 👯 I’m looking to collaborate with other Developers 
@@ -13,7 +12,7 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/latakant-sharma-6ab4031a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/latakant-sharma-6ab4031a3/" height="30" width="40" /></a>
   <a href="https://instagram.com/sharma20.93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharma20.93" height="30" width="40" /></a>
   </p>
-  </div>
+  
 </div
 </br>
 
