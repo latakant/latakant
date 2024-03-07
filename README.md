@@ -1,7 +1,7 @@
 <h1 align="center"><img alt="OM" width="26px" src="https://svgsilh.com/svg/884267.svg" style="padding-right:10px;" /> Hi 👋, I'm Latakant Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 <div style="padding-bottom: 10px">
-  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   ### I'm a Developer!!
   - 🌱 I’m currently learning everything 🤣
   - 👯 I’m looking to collaborate with other Developers 
